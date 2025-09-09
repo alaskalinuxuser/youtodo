@@ -1,4 +1,5 @@
 {
-  "template": "pure-qml-cmake",
+  "builder": "pure-qml-cmake",
+  "clickable_minimum_required": "8.4",
   "kill": "qmlscene"
 }

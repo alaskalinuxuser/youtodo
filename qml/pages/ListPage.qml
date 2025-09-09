@@ -1,6 +1,6 @@
 import QtQuick 2.4
 import QtQuick.Layouts 1.1
-import Ubuntu.Components 1.3
+import Lomiri.Components 1.3
 import QtQuick.LocalStorage 2.0
 import "../components"
 import "../models"
@@ -58,7 +58,7 @@ Page {
         Label {
             text: i18n.tr("Swipe up from the bottom to enter some tasks...")
             textSize: Label.Large
-            color: UbuntuColors.graphite
+            color: LomiriColors.graphite
             anchors.centerIn: parent
             width: parent.width - units.gu(4)
             horizontalAlignment: Text.AlignHCenter
