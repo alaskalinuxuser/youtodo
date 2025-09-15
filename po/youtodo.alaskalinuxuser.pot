@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the youtodo.alaskalinuxuser package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: youtodo.alaskalinuxuser\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-15 14:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/pages/AddTaskPage.qml:14
+msgid "Add Task"
+msgstr ""
+
+#: ../qml/pages/AddTaskPage.qml:29
+msgid "What to do?"
+msgstr ""
+
+#: ../qml/pages/AddTaskPage.qml:51
+msgid "Task already exists!"
+msgstr ""
+
+#: ../qml/pages/InfoPage.qml:11 ../qml/pages/ListPage.qml:21
+msgid "Info"
+msgstr ""
+
+#: ../qml/pages/InfoPage.qml:33
+msgid "Buy me a coffee"
+msgstr ""
+
+#: ../qml/pages/InfoPage.qml:42
+msgid "YouTodo by Christian Pauly"
+msgstr ""
+
+#: ../qml/pages/InfoPage.qml:42
+msgid "Email: "
+msgstr ""
+
+#: ../qml/pages/InfoPage.qml:42
+msgid "Maintainted by Alaskalinuxuser"
+msgstr ""
+
+#: ../qml/pages/ListPage.qml:17 youtodo.desktop.in.h:1
+msgid "YouTodo"
+msgstr ""
+
+#: ../qml/pages/ListPage.qml:26
+msgid "Clear"
+msgstr ""
+
+#: ../qml/pages/ListPage.qml:31
+msgid "Add task"
+msgstr ""
+
+#: ../qml/pages/ListPage.qml:59
+msgid "Swipe up from the bottom to enter some tasks..."
+msgstr ""

@@ -2,7 +2,7 @@
 
 Minimalistic Todo app for Ubuntu Touch
 
-Download from the Open Store: https://open-store.io/app/youtodo.christianpauly
+Download from the Open Store: https://open-store.io/app/youtodo.alaskalinuxuser
 
 ### How to build
 
@@ -18,3 +18,7 @@ cd youtodo
 ```
 clickable click-build
 ```
+
+
+## Updated
+Updated for Focal by Alaskalinuxuser

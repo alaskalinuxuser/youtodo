@@ -1,5 +1,5 @@
 {
-    "name": "youtodo.christianpauly",
+    "name": "youtodo.alaskalinuxuser",
     "description": "Minimalistic Todo app for Ubuntu Touch",
     "architecture": "all",
     "title": "YouTodo",
@@ -10,6 +10,6 @@
         }
     },
     "version": "1.0.5",
-    "maintainer": "Christian Pauly <christian-pauly@posteo.de>",
+    "maintainer": "Alaskalinuxuser <alaskalinuxuser@fastmail.com>",
     "framework" : "@CLICK_FRAMEWORK@"
 }

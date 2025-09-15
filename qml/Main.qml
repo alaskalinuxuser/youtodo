@@ -6,7 +6,7 @@ import "scripts/NavActions.js" as NavActions
 MainView {
     id: root
     objectName: 'mainView'
-    applicationName: 'youtodo.christianpauly'
+    applicationName: 'youtodo.alaskalinuxuser'
     automaticOrientation: true
 
     width: units.gu(45)

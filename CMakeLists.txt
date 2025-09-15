@@ -20,7 +20,7 @@ execute_process(
 set(QT_IMPORTS_DIR "lib/${ARCH_TRIPLET}")
 
 set(PROJECT_NAME "youtodo")
-set(FULL_PROJECT_NAME "youtodo.christianpauly")
+set(FULL_PROJECT_NAME "youtodo.alaskalinuxuser")
 set(CMAKE_INSTALL_PREFIX /)
 set(DATA_DIR /)
 set(DESKTOP_FILE_NAME ${PROJECT_NAME}.desktop)

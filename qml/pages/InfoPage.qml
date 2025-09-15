@@ -39,7 +39,7 @@ Page {
         anchors.bottom: parent.bottom
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.bottomMargin: height
-        text: i18n.tr('YouTodo by Christian Pauly') + "\n" + i18n.tr('Email: ') + ' christian-pauly@posteo.de'
+        text: i18n.tr('YouTodo by Christian Pauly') + "\n" + i18n.tr('Email: ') + ' christian-pauly@posteo.de' + "\n" + i18n.tr('Maintainted by Alaskalinuxuser') + "\n" + i18n.tr('Email: ') + ' alaskalinuxuser@fastmail.com'
         onLinkActivated: Qt.openUrlExternally(link)
         horizontalAlignment: Text.AlignHCenter
     }
